@@ -1,0 +1,45 @@
+@font-face
+ {
+ font-family: "ac";
+ src: url("Assassin$.ttf")
+}
+
+body
+{
+	background-color: #53C9E8;
+}
+
+h1
+{
+	text-align: center;
+	color: red;
+	font-family: ac;
+}
+
+
+h2
+{
+	color: blue;
+	font-family: ac;
+}
+
+em
+{
+	font-style:italic; 
+}
+
+.box
+{
+	border:2px black solid;
+	box-shadow: 2px 2px 3px;
+}
+
+.img 
+{
+	text-align: center;
+}
+
+.strong
+{
+	font-weight: bold;
+}
